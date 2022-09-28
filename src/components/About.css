@@ -1,0 +1,18 @@
+#about p {
+    margin: 0;
+}
+/* #about h1 {
+    position: relative;
+} */
+/* #about h1::before {
+    position: absolute;
+    content: '';
+    border-bottom: 18px solid #ff4d5a;
+    width: 21rem;
+    display: block;
+    margin: 0 auto;
+    position: relative;
+    left: 3.5rem;
+    top: 6.3rem;
+    z-index: -1;
+} */
