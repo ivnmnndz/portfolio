@@ -1,0 +1,12 @@
+/* .projectList {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+} */
+
+@media (min-width: 768px) {
+  /* .project-list {
+    width: 75%;
+    margin: auto;
+  } */
+}

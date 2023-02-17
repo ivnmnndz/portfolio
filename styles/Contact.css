@@ -1,0 +1,28 @@
+#contact {
+  z-index: -1;
+}
+
+#contact > div {
+  /* margin-bottom: 5rem; */
+}
+
+#contact p {
+  color: var(--light);
+  margin-bottom: 3rem;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  background-color: white;
+}
+
+form button {
+  align-self: flex-end;
+  background-color: var(--primary);
+}
+
+#contact .MuiFormHelperText-root {
+  color: red;
+  margin: 0 0 0 0;
+}
