@@ -23,7 +23,6 @@ body {
   word-break: break-word;
   word-wrap: break-word;
   min-width: 320px;
-  background-color: var(--dark);
 }
 
 a {
@@ -35,7 +34,7 @@ a:visited {
 }
 a:hover,
 a:focus {
-  color: var(--primary);
+  /* color: var(--primary); */
 }
 a:active {
   color: #4ab5e0;
@@ -68,6 +67,10 @@ button:active {
 
 h1,h2,h3,h4,h5,h6,p {
   color: white
+}
+
+main {
+  background-color: var(--dark);
 }
 
 main > section:not(:first-child) {
