@@ -30,9 +30,8 @@ section:not(:first-child) > div {
 footer > div {
   display: flex;
   justify-content: center;
-  margin: 0 1.25rem 4rem 1.25rem;
+  padding: 3rem 1.25rem 4rem 1.25rem;
   gap: 1rem;
-  padding-top: 3rem;
 }
 footer .social-link {
   color: var(--primary);
@@ -99,11 +98,8 @@ h2::before {
 }
 /* end underline animation */
 
-@media (min-width: 768px) {
+@media (min-width: 1200px) {
   section > div {
     margin: 0 100px;
-  }
-  footer > div {
-    margin: 0 6.25rem 6.25rem;
   }
 }

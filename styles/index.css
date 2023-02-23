@@ -73,10 +73,6 @@ main {
   background-color: var(--dark);
 }
 
-main > section:not(:first-child) {
-  margin-bottom: 5rem;
-}
-
 @media (min-width: 768px) {
   .wrapper {
     padding: 0 6rem;

@@ -2,10 +2,6 @@
   z-index: -1;
 }
 
-#contact > div {
-  /* margin-bottom: 5rem; */
-}
-
 #contact p {
   color: var(--light);
   margin-bottom: 3rem;

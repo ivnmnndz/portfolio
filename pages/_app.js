@@ -4,7 +4,6 @@ import "../styles/About.css";
 import "../styles/Contact.css";
 import "../styles/Hero.css";
 import "../styles/ProjectCard.css";
-import "../styles/Projects.css";
 import "../styles/Contact.css";
 import "../styles/Modal.css";
 import "@fortawesome/fontawesome-svg-core/styles.css";
